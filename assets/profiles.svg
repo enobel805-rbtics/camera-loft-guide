@@ -1,0 +1,13 @@
+<svg viewBox="0 0 760 470" role="img" aria-label="Separate rectangles sketched on the foot and camera plate faces" xmlns="http://www.w3.org/2000/svg"><title>Separate rectangles sketched on the foot and camera plate faces</title><defs><pattern id="c9ffeb87-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#d7e2ec" stroke-width=".7"/></pattern><marker id="c9ffeb87-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 10 5 0 10" fill="#6b8193"/></marker></defs><rect width="100%" height="100%" fill="#f1f5f8"/><rect width="100%" height="100%" fill="url(#c9ffeb87-grid)"/><g stroke="#536b80" stroke-width="2">
+<path d="M58 283 251 329 344 284 149 239Z" fill="#d7e1e9"/>
+<path d="M58 283v27l193 46v-27Z" fill="#bbcbd7"/><path d="m251 329 93-45v27l-93 45Z" fill="#c7d6e0"/>
+<path d="M101 274 251 310 298 287 148 252Z" fill="#14ad98" fill-opacity=".32" stroke="#078777" stroke-width="3"/>
+<path d="m448 314 195 47-62-213-195-47Z" fill="#d7e1e9"/>
+<path d="m489 249 109 27-20-68-109-27Z" fill="#ffc283" fill-opacity=".7" stroke="#b46421" stroke-width="3"/>
+</g>
+<g font-size="19" fill="#17354c" font-weight="600"><text x="63" y="75">A / horizontal foot</text><text x="414" y="75">B / tilted plate</text></g>
+<g font-size="15" fill="#4e687d"><text x="62" y="106">Sketch on the top face.</text><text x="414" y="106">Sketch on the support-side face.</text>
+<text x="88" y="398">One closed rectangle</text><text x="454" y="398">One closed rectangle</text></g>
+<g stroke="#71889b" stroke-width="1.5" marker-start="url(#c9ffeb87-arrow)" marker-end="url(#c9ffeb87-arrow)"><path d="m109 326 141 34"/><path d="m609 211 20 69"/></g>
+<text x="115" y="367" font-size="14" fill="#067c6f">26 mm × 8 mm*</text><text x="625" y="238" font-size="14" fill="#a65514" transform="rotate(73 625 238)">18 mm × 6 mm*</text>
+<text x="36" y="448" font-size="13" fill="#586f82">*Practice dimensions only. Fit the profiles to your actual free space.</text></svg>
